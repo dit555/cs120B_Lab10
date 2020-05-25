@@ -1,4 +1,4 @@
-/*	Author: lab
+/*	Author: Dumitru Chiriac lab
  *  Partner(s) Name: 
  *	Lab Section:
  *	Assignment: Lab #  Exercise #
